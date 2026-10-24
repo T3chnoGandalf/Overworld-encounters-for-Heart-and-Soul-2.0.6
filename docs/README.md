@@ -46,7 +46,18 @@ Download `HeartAndSoulGrassSeaCaveOverworld.bps` from the release's **Assets** s
 
 ## 📸 Screenshots
 
-*Gameplay screenshots showing grass, cave, water, and shiny overworld encounters will be added here.*
+<table>
+  <tr>
+    <th>🌿 Grass Encounters</th>
+    <th>🪨 Cave Encounters</th>
+    <th>🌊 Water Encounters</th>
+  </tr>
+  <tr>
+    <td><img src="../grass.webp" width="280" alt="Grass encounters"></td>
+    <td><img src="../cave.png" width="280" alt="Cave encounters"></td>
+    <td><img src="../water.webp" width="280" alt="Water encounters"></td>
+  </tr>
+</table>
 
 ---
 
