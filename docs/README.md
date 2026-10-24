@@ -1,55 +1,75 @@
-Pokémon HeartAndSoul 2.0.6 — Overworld Encounters
-
-A fork of Pokémon HeartAndSoul 2.0.6 that introduces visible wild Pokémon encounters in the overworld.
-
-Download
-
-Download Overworld Encounters v1.0.0 (BPS Patch)
-
-Download the .bps file from the release's Assets section.
-
-Features
-
-Overworld Pokémon encounters in grass.
-
-Overworld Pokémon encounters inside caves.
-
-Overworld Pokémon encounters in water.
-
-Shiny Pokémon can appear in the overworld encounters.
-
-Overworld encounters follow the Heart and Soul encounter tables.
-
-Fishing encounter tables included in water overworld encounters.
-
-Installation
-
-Obtain a compatible Pokémon HeartAndSoul 2.0.6 ROM. (see links below)
-
-Download the BPS patch from the release page above.
-
-Open a BPS-compatible patching tool. 
-
-Apply the patch to Heart and Soul 2.0.6.
-
-www.hackdex.app/hack/pokemon-heart-and-soul 
-
-github.com/PokemonHnS-Development/pokemonHnS
+# Pokémon Heart And Soul 2.0.6 - Overworld Encounters
 
 
+A fork of Pokémon Heart And Soul 2.0.6 featuring visible overworld Pokémon encounters in grass, caves, and water, including shiny Pokémon.
 
-Source Code
+---
 
-The modified source code is included in this repository for reference and development.
+## 🎮 Download — v1.0.0
 
-Credits
+### **[⬇️ DOWNLOAD THE OVERWORLD ENCOUNTERS BPS PATCH](https://github.com/T3chnoGandalf/Overworld-encounters-for-Heart-and-Soul-2.0.6/releases/tag/v1.0.0)**
 
-Original HeartAndSoul development team — Original game and project.
+**Version:** 1.0.0  
+**Base game:** Pokémon HeartAndSoul 2.0.6  
+**Format:** BPS patch
 
-Pokémon expansion contributors — Base engine and development resources.
+Download `HeartAndSoulGrassSeaCaveOverworld.bps` from the release's **Assets** section.
 
-T3chnoGandalf — Overworld encounters modification and release.
+> **Important:** This download is a patch, not a complete Pokémon ROM. You need a compatible copy of HeartAndSoul 2.0.6.
 
-Version
+---
 
-v1.0.0 — Initial public release of the Overworld Encounters modification.
+## ✨ Features
+
+- 🌿 **Grass encounters** — Wild Pokémon spawn in tall grass.
+- 🪨 **Cave encounters** — Wild Pokémon spawn in caves.
+- 🌊 **Water encounters** — Wild Pokémon spawn in water.
+- ⭐ **Shiny Pokémon** — Shiny Pokémon can appear as overworld encounters.
+- 📊 **Original encounter tables** — Uses Heart And Soul's existing encounter tables.
+- 🎣 **Fishing encounters** — Fishing encounters including in water overworld encounters.
+
+---
+
+## 📥 Installation
+
+1. Obtain a compatible Pokémon Heart And Soul 2.0.6 ROM.
+2. Download the `.bps` patch from the release page above.
+3. Open a BPS-compatible patching tool.
+4. Apply the patch to your compatible Heart And Soul 2.0.6 ROM.
+
+### Heart And Soul Resources
+
+- [HeartAndSoul on Hackdex](https://www.hackdex.app/hack/pokemon-heart-and-soul)
+- [Original HeartAndSoul GitHub Repository](https://github.com/PokemonHnS-Development/pokemonHnS)
+
+---
+
+## 📸 Screenshots
+
+*Gameplay screenshots showing grass, cave, water, and shiny overworld encounters will be added here.*
+
+---
+
+## 💻 Source Code
+
+The modified source code is available in this repository.
+
+The main downloadable release is provided as a `.bps` patch.
+
+---
+
+## 🙏 Credits
+
+- **Heart And Soul Development Team** — Original Heart And Soul project.
+- **Pokémon Expansion Contributors** — Base engine, tools, and development resources.
+- **T3chnoGandalf** — Overworld encounter modifications and public release.
+
+---
+
+## 📋 Release Information
+
+**v1.0.0 — Initial Release**
+
+Introduces visible wild Pokémon encounters in grass, caves, and water, including shiny overworld encounters.
+
+**[View Releases & Download the Patch](https://github.com/T3chnoGandalf/Overworld-encounters-for-Heart-and-Soul-2.0.6/releases)**
