@@ -5,11 +5,11 @@ A fork of Pokémon Heart And Soul 2.0.6 featuring visible overworld Pokémon enc
 
 ---
 
-## 🎮 Download — v1.0.2
+## 🎮 Download — v1.0.3
 
-### **📥 [DOWNLOAD THE OVERWORLD ENCOUNTERS & DYNAMIC WEATHER BPS PATCH](https://github.com/T3chnoGandalf/Overworld-encounters-for-Heart-and-Soul-2.0.6/releases/tag/v1.0.2)**
+### **📥 [DOWNLOAD THE OVERWORLD ENCOUNTERS & DYNAMIC WEATHER BPS PATCH](https://github.com/T3chnoGandalf/Overworld-encounters-for-Heart-and-Soul-2.0.6/releases/tag/v1.0.3)**
 
-**Version:** 1.0.2  
+**Version:** 1.0.3 
 **Base game:** Pokémon HeartAndSoul 2.0.6  
 **Format:** BPS patch
 
