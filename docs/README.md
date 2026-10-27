@@ -5,15 +5,15 @@ A fork of Pokémon Heart And Soul 2.0.6 featuring visible overworld Pokémon enc
 
 ---
 
-## 🎮 Download — v1.0.0
+## 🎮 Download — v1.0.2
 
-### **[⬇️ DOWNLOAD THE OVERWORLD ENCOUNTERS BPS PATCH](https://github.com/T3chnoGandalf/Overworld-encounters-for-Heart-and-Soul-2.0.6/releases/tag/v1.0.0)**
+### **📥 [DOWNLOAD THE OVERWORLD ENCOUNTERS & DYNAMIC WEATHER BPS PATCH](https://github.com/T3chnoGandalf/Overworld-encounters-for-Heart-and-Soul-2.0.6/releases/tag/v1.0.2)**
 
-**Version:** 1.0.0  
+**Version:** 1.0.2  
 **Base game:** Pokémon HeartAndSoul 2.0.6  
 **Format:** BPS patch
 
-Download `HeartAndSoulGrassSeaCaveOverworld.bps` from the release's **Assets** section.
+Download `heartandsoul-2.0.6-overworld.bps` from the release's **Assets** section.
 
 > **Important:** This download is a patch, not a complete Pokémon ROM. You need a compatible copy of HeartAndSoul 2.0.6.
 
@@ -27,6 +27,7 @@ Download `HeartAndSoulGrassSeaCaveOverworld.bps` from the release's **Assets** s
 - ⭐ **Shiny Pokémon** — Shiny Pokémon can appear as overworld encounters.
 - 📊 **Original encounter tables** — Uses Heart And Soul's existing encounter tables.
 - 🎣 **Fishing encounters** — Fishing encounters including in water overworld encounters.
+- 🌧️ **Dynamic weather** — Weather changes automatically over time, bringing sunshine, rain, and thunderstorms to the overworld.
 
 ---
 
