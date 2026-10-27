@@ -1,7 +1,7 @@
-# Pokémon Heart And Soul 2.0.6 - Overworld Encounters
+# Pokémon Heart And Soul 2.0.6 - Overworld Encounters + Dynamic Weather 
 
 
-A fork of Pokémon Heart And Soul 2.0.6 featuring visible overworld Pokémon encounters in grass, caves, and water, including shiny Pokémon.
+A fork of Pokémon Heart And Soul 2.0.6 featuring visible overworld Pokémon encounters in grass, caves, and water, including shiny Pokémon. Dynamic weather now added. 
 
 ---
 
@@ -48,7 +48,7 @@ Download `heartandsoul-2.0.6-overworld.bps` from the release's **Assets** sectio
 ## 📸 Screenshots
 
 <table>
-  <tr>
+   <tr>
     <th>🌿 Grass Encounters</th>
     <th>🪨 Cave Encounters</th>
     <th>🌊 Water Encounters</th>
@@ -57,6 +57,16 @@ Download `heartandsoul-2.0.6-overworld.bps` from the release's **Assets** sectio
     <td><img src="../grass.webp" width="280" alt="Grass encounters"></td>
     <td><img src="../cave.png" width="280" alt="Cave encounters"></td>
     <td><img src="../water.webp" width="280" alt="Water encounters"></td>
+  </tr>
+  <tr>
+    <th>🌧️ Rainy Weather</th>
+    <th>☀️ Sunny Weather</th>
+    <th>❄️ Castform Snow Form</th>
+  </tr>
+  <tr>
+    <td><img src="../rain.png" width="280" alt="Rainy weather"></td>
+    <td><img src="../sunny%20%282%29.png" width="280" alt="Sunny weather"></td>
+    <td><img src="../ice.png" width="280" alt="Castform Snowy"></td>
   </tr>
 </table>
 
