@@ -64,7 +64,7 @@ Download `heartandsoul-2.0.6-overworld.bps` from the release's **Assets** sectio
     <th>❄️ Castform Snow Form</th>
   </tr>
   <tr>
-    <td><img src="../rain.png" width="280" alt="Rainy weather"></td>
+    <td><img src="../rain2.png" width="280" alt="Rainy weather"></td>
     <td><img src="../sunny%20%282%29.png" width="280" alt="Sunny weather"></td>
     <td><img src="../ice.png" width="280" alt="Castform Snowy"></td>
   </tr>
