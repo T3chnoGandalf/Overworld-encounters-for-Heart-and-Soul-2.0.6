@@ -68,6 +68,14 @@ Download `heartandsoul-2.0.6-overworld.bps` from the release's **Assets** sectio
     <td><img src="../sunny%20%282%29.png" width="280" alt="Sunny weather"></td>
     <td><img src="../ice.png" width="280" alt="Castform Snowy"></td>
   </tr>
+<tr>
+  <th colspan="3">🌸 Cherrim Sunny Form</th>
+</tr>
+<tr>
+  <td colspan="3" align="center">
+    <img src="../cherrim.png" width="280" alt="Cherrim Sunny Form">
+  </td>
+</tr>
 </table>
 
 ---
