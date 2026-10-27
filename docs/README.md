@@ -27,7 +27,7 @@ Download `heartandsoul-2.0.6-overworld.bps` from the release's **Assets** sectio
 - ⭐ **Shiny Pokémon** — Shiny Pokémon can appear as overworld encounters.
 - 📊 **Original encounter tables** — Uses Heart And Soul's existing encounter tables.
 - 🎣 **Fishing encounters** — Fishing encounters including in water overworld encounters.
-- 🌧️ **Dynamic weather** — Weather changes automatically over time, bringing sunshine, rain, and thunderstorms to the overworld.
+- 🌧️ **Dynamic weather** — Weather changes automatically over time, bringing sun, rain and storms to the overworld.
 
 ---
 
